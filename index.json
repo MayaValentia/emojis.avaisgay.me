@@ -1,0 +1,22 @@
+{
+    "name": "Ava's Repo!",
+    "path": "emotes",
+    "emotes" : [
+        {
+            "name": "fr",
+            "type": ".png"
+        },
+        {
+            "name": "blush",
+            "type": ".png"
+        },
+        {
+            "name": "02boba",
+            "type": ".png"
+        },
+        {
+            "name": "fbk_shake",
+            "type": ".gif"
+        }
+    ]
+}
