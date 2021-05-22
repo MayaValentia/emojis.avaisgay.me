@@ -3,162 +3,150 @@
     "path": "emotes",
     "emotes" : [
         {
-            "name": "fr",
-            "type": ".png"
-        },
-        {
-            "name": "blush",
-            "type": ".png"
-        },
-        {
-            "name": "02boba",
-            "type": ".png"
-        },
-        {
             "name": "fbk_shake",
             "type": ".gif"
         },
         {
-            "name": "4head.png",
+            "name": "4head",
             "type":".png"
         },
 
         {
-            "name": "AYAYABlush.png",
+            "name": "AYAYABlush",
             "type":".png"
         },
 
         {
-            "name":"200IQ.gif",
+            "name":"200IQ",
             "type":".gif"
         },
         {
-            "name":"AliveChat.png",
-            "type":".png"
+            "name":"AliveChat",
+            "type":".pngpng"
         },
         {
-            "name": "Angerycry.png",
+            "name": "Angerycry",
+            "type": ".pngpng"
+        },
+        {
+            "name": "AngeryBob",
+            "type": ".pngpng"
+        },
+        {
+            "name": "AniPats",
             "type": ".png"
         },
         {
-            "name": "AngeryBob.png",
-            "type": ".png"
-        },
-        {
-            "name": "AniPats.png",
-            "type": ".png"
-        },
-        {
-            "name": "AnnoyingPing.gif",
+            "name": "AnnoyingPing",
             "type":".gif"
         },
         {
-            "name": "BLM_Heart.png",
+            "name": "BLM_Heart",
             "type": ".png"
         },
         {
-            "name": "BLM_pride_heart.png",
+            "name": "BLM_pride_heart",
             "type": ".png"
         },
         {
-            "name": "BanHammer.png",
+            "name": "BanHammer",
             "type": ".png"
         },
         {
-            "name": "BellSip.png",
+            "name": "BellSip",
             "type": ".png"
         },
         {
-            "name": "BellThink.png",
+            "name": "BellThink",
+            "type": ".png"
+        },
+        {
+            "name": "fr",
             "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
+            "type": ".png"
         },
         {
             "name": "name",
-            "type": "."
-        },
-        {
-            "name": "name",
-            "type": "."
+            "type": ".png"
         }
         
     ]
