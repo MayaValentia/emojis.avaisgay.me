@@ -82,7 +82,7 @@ OwO.png                             peeps.png
 PatPatPat.gif                       pensive_cowbread.png
 Patrix.png                          pensivebread.png
 PeepWide.png                        pensivecowboy.png
-PenguinMoppingFloor.gif             pensiveruby.png
+PenguinMoppingFloor.gif             
 PenguinTakingPicture.gif            pepeFBI.png
 PenguinWalking.gif                  pepeRules.png
 PensiveBell.png                     pepenou.gif
@@ -109,7 +109,7 @@ Shrug~1.png                         reinhardt.png
 Siren.gif                           retweet.png
 SnailPride.png                      roadhog.png
 SolasMegaPucker.png                 sadparty.png
-SolasPucker.png                     scene_solas.png
+SolasPucker.png                     
 SoonTM.png                          sendlove.png
 SopPeek.png                         sex.png
 SpamPressFToPayRespects.gif         shrek_sip.png
